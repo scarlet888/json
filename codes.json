@@ -1,3 +1,7 @@
 {
-    "validPromoCodes": ["test"]
+    "codes": [
+        "DISCOUNT10",
+        "SAVE20",
+        "FREESHIP"
+    ]
 }
