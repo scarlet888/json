@@ -5,7 +5,8 @@
       "iconURL": "https://example.com/icon.png",
       "version": "1.0.0",
       "versionDate": "2024-09-22T21:42:12",
-      "developerName": "Developer Name"
+      "developerName": "Developer Name",
+      "downloadURL": "https://example.com/download"
     }
   ]
 }
