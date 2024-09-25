@@ -1,44 +1,44 @@
 [
     {
         "name": "Roblox",
-        "description": "roblox a popular game",
+        "description": "Roblox is a popular game",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Roblox_Logo_2022.svg/2048px-Roblox_Logo_2022.svg.png",
         "link": "https://www.roblox.com"
     },
     {
-        "name": "delta",
-        "description": "roblox a executor",
+        "name": "Delta",
+        "description": "A powerful executor for Roblox",
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Procreate_icon_2021.svg",
         "link": "https://procreate.art"
     },
     {
         "name": "Minecraft",
-        "description": "Build, Craft, Explore & Battle",
+        "description": "Build Craft Explore & Battle",
         "image": "https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png",
         "link": "https://www.minecraft.net"
     },
     {
-        "name": "tiktok",
-        "description": "short videos and other.",
+        "name": "TikTok",
+        "description": "Create and share short videos",
         "image": "https://upload.wikimedia.org/wikipedia/en/7/73/Brawl_Stars_app_icon.png",
-        "link": "https://brawlstars.com"
+        "link": "https://www.tiktok.com"
     },
     {
-        "name": "capcut",
-        "description": "for editor",
+        "name": "CapCut",
+        "description": "Video editing made as easy",
         "image": "https://upload.wikimedia.org/wikipedia/en/7/73/Brawl_Stars_app_icon.png",
-        "link": "https://brawlstars.com"
+        "link": "https://www.capcut.com"
     },
     {
-        "name": "scarlet",
-        "description": "signer a app for ipas",
+        "name": "Scarlet",
+        "description": "An app for signing IPA files",
         "image": "https://upload.wikimedia.org/wikipedia/en/7/73/Brawl_Stars_app_icon.png",
-        "link": "https://brawlstars.com"
+        "link": "https://www.scarlet.com"
     },
     {
-        "name": "esign",
-        "description": "signer a app for ipas",
+        "name": "eSign",
+        "description": "Another app for signing IPA files",
         "image": "https://upload.wikimedia.org/wikipedia/en/7/73/Brawl_Stars_app_icon.png",
-        "link": "https://brawlstars.com"
+        "link": "https://www.esign.com"
     }
 ]
